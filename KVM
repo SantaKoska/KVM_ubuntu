@@ -7,3 +7,8 @@ sudo systemctl status libvirt
 
 sudo apt install virt-manager
 sudo virt manager
+
+
+
+
+https://phoenixnap.com/kb/ubuntu-install-kvm
