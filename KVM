@@ -1,0 +1,9 @@
+sudo apt install cpu-checker
+sudo apt intall qemu-kvm libvirt-daemon-system libvirt-client bridge-util
+sudo systemctl enable --now libvirt 
+sudo systemctl start libvirt
+sudo systemctl status libvirt 
+
+
+sudo apt install virt-manager
+sudo virt manager
